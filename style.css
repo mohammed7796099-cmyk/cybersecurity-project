@@ -1,0 +1,28 @@
+body {
+font-family: Arial;
+direction: rtl;
+margin: 40px;
+background: #f4f6f8;
+color: #222;
+}
+
+h1 {
+color: #0a3d62;
+}
+
+h2 {
+color: #1e3799;
+margin-top: 30px;
+}
+
+ul {
+background: #fff;
+padding: 15px;
+border-radius: 6px;
+}
+
+p {
+background: #fff;
+padding: 15px;
+border-radius: 6px;
+}
